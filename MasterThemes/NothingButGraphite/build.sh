@@ -21,7 +21,7 @@ if [ ! -f "artisan" ]; then
     zip -r PterodactylBackup-$(date +"%Y-%m-%d").zip public resources
 
     echo "Downloading the Theme you picked"
-    mkdir -p tempdown && cd tempdown && git clone https://github.com/TheFonix/Pterodactyl-Themes.git .
+    mkdir -p tempdown && cd tempdown && git clone https://github.com/charliekmcmahon/Pterodactyl-Themes.git .
     cp -r MasterThemes/NothingButGraphite/public ..
     
 
@@ -34,4 +34,5 @@ if [ ! -f "artisan" ]; then
 
     echo "Complete! Have a good day and dont forget to refresh your browser cache! (CTRL + F5)"
     echo "-Will"
+    echo NEW SCRIPT!!
 fi
