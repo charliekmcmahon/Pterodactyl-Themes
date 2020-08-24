@@ -34,4 +34,5 @@ if [ ! -f "artisan" ]; then
 
     echo "Complete! Have a good day and dont forget to refresh your browser cache! (CTRL + F5)"
     echo "-Will"
+    echo NEW SCRIPT!!
 fi
