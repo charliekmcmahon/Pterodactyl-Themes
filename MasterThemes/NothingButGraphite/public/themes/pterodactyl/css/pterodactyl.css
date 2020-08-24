@@ -37,12 +37,10 @@ THEME EDITED BY FONIX/WILL
     font-weight: 400;
     text-indent: -9999px;
     background: url("https://shardhost.xyz/assets/ShardHost-Panel_trans.png") no-repeat;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .login-copyright {
