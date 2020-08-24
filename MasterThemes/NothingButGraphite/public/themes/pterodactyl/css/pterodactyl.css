@@ -33,12 +33,8 @@ THEME EDITED BY FONIX/WILL
 }
 
 .login-logo {
-    color: #fff;
+    color: #858585;
     font-weight: 400;
-    text-indent: -9999px;
-    background: url("https://shardhost.xyz/assets/ShardHost-Panel_trans.png") no-repeat;
-    width: 300px;
-    height: 100px;
 }
 
 .login-copyright {
